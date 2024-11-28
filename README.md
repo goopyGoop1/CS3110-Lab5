@@ -121,3 +121,8 @@ The scene features:
 - If the scene does not render, ensure your browser supports WebGL and the shaders compile without errors.
 - Use the browser developer tools to debug any WebGL-related errors.
 
+---
+
+
+![image](https://github.com/user-attachments/assets/4ec6e68b-e3f9-443e-b6e2-635519c68e4e)
+
